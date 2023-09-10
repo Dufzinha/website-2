@@ -1,4 +1,4 @@
-# Bubbletea
+# Bubble Tea
 - Website animado usando HTML, CSS e JavaScript.
 - Com animação de rótulos flutuantes.
 - Compatível com todos os dispositivos móveis.
